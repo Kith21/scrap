@@ -1,0 +1,35 @@
+"selection1_name","selection1_selection2"
+"What is PayMate?",""
+"Who will accept my payments using PayMate?",""
+"What do I need to use PayMate?",""
+"Registration form",""
+"Is this service mobile phone or operator specific?",""
+"Does PayMate require any Java application download or GPRS/ WAP connectivity?",""
+"Are my Account details secure?","Are my Account details secure?
+Absolutely secure. Since you register for PayMate with your bank and not any third party vendor, your Bank account and other personal details remain within the Bank. Also as you do not reveal your card number, there is no possibility of it being misused."
+"How will I get my PIN?","How will I get my PIN?
+As soon as you register for this service through submission of the registration form, you will receive a temporary 4 digit PIN via SMS on the registered mobile number. You will be prompted to immediately change the PIN over a secure IVR call before you initiate your first payment. Please note that unless you change your initially allotted 4 digit PIN, no transactions will be processed."
+"Can I change my PIN?","Can I change my PIN?
+Sure. You can change the PIN any number of times as you wish. To change the PIN, SMS ‘CP’ to 9870900876."
+"How secure is the PayMate transaction?",""
+"What happens if I lose my mobile phone or get it stolen?","What happens if I lose my mobile phone or get it stolen?
+Unless someone knows your PayMate PIN, there's no way your lost or stolen phone can be misused for making payments. Please note to memorise your PIN and not store it anywhere on your mobile phone. In case you lose your mobile phone, the first thing you would do is call your operator and get the SIM deactivated. Once this is done, the phone is not capable of making payments. Alternatively you may call the Bank on its toll free numbers and get the service temporarily de-activated."
+"What happens if someone knows my mobile number and gets to know my PIN?","What happens if someone knows my mobile number and gets to know my PIN?
+It does not matter since the person cannot do a transaction unless he or she has your 4 digit mobile PIN and authorizations must happen from your mobile number only."
+"hat happens if someone knows my mobile number and gets to know my PIN?",""
+"How do I make a payment through this service?","How do I make a payment through this service?
+Once you choose to pay via PayMate at any of the accredited merchants, all you have to share is your mobile number. You will instantly receive an IVR call asking for authorization of the payment by entering your 4 digit PIN. Once you reply to this call, within a few seconds your bank will authenticate the details and debit the amount to your account. You will instantly receive a confirmation of the same via SMS and the merchants system will also get updated with the status."
+"How do I use my ‘PIN’ for authorising transactions?","How do I use my ‘PIN’ for authorising transactions?
+While making the payment, all you need to do is to enter your PIN over a secure IVR call received at the time of payment."
+"Can I link my mobile number to more than one account?","Can I link my mobile number to more than one account?
+No. Currently, a mobile number can be linked to only one savings or current account that you opt for at the time of registration."
+"What if there is a dispute in the product bought or amount charged?","What if there is a dispute in the product bought or amount charged?
+In case of dispute on the product, you need to get in touch with the merchant & follow the process as you would in case of a cash or card purchase. In case of dispute in the amount charged, you have to get in touch with the bank and the same guidelines would apply as for any card based transaction."
+"What if my mobile number is changed?","What if my mobile number is changed?
+You may call your bank and submit a letter intimating the change and modify the old number with the new one so that your account is de-linked from the old mobile number and linked to the new one."
+"What is my daily transaction limit?","What is my daily transaction limit?
+Daily limits as per RBI guidelines will apply which currently are Rs. 10,000/- per day for purchase of goods and services."
+"What do I do if I need any information for any transaction?","What do I do if I need any information for any transaction?
+In case of any additional queries or concerns, you can call our toll free Phone Banking number (for BSNL/MTNL: 1800 – 22 – 1070 and for Others: 1800 – 200 - 1947)."
+"Do I have to pay any charges for availing this service or while making a merchant transaction?","Do I have to pay any charges for availing this service or while making a merchant transaction?
+This service is offered by the Bank to its customers absolutely free of charge. However, the merchant may charge applicable courier or handling charges for dispatch of the product to the mailing address of the customer (in the case of online purchases). It is to be noted that such courier/handling charges, if any, charged by the merchant are payable irrespective of the mode of payment and are not specific to the PayMate transaction."
